@@ -1,0 +1,11 @@
+site_name: wiki of lovely 5mm
+theme:
+  name: material
+
+
+
+
+
+site_url: https://github.com/5mm-wiki.io/5mm-wiki.io/
+repo_url: https://github.com/Kafka2006/5mm-wiki.io
+edit_uri: edit/main/docs/
