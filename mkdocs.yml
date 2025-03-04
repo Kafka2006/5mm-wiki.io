@@ -19,8 +19,8 @@ theme:
 # orange, deep orange, brown, grey, blue grey
 
 # 导航设置
-nav:
-  - 首页: index.md
+
+    
 
 # Markdown 扩展
 markdown_extensions:
@@ -28,7 +28,7 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-site_url: https://github.com/5mm-wiki.io/5mm-wiki.io/
+site_url: https://github.com/5mm-wiki.io/
 repo_url: https://github.com/Kafka2006/5mm-wiki.io
 edit_uri: edit/main/docs/
 
