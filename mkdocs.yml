@@ -10,9 +10,34 @@ theme:
 # cyan, teal, green, light green, lime, yellow, amber, 
 # orange, deep orange, brown, grey, blue grey
 
+# 站点信息
+site_name: 5mm wiki
+site_description: 灌注5mm喵灌注5mm谢谢喵
+
+# 主题设置
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.top
+
+# 导航设置
 nav:
   - 首页: index.md
-  
+  - 指南: 
+    - guide/index.md
+    - 安装: guide/install.md
+    - 使用: guide/usage.md
+
+# Markdown 扩展
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
 site_url: https://github.com/5mm-wiki.io/5mm-wiki.io/
 repo_url: https://github.com/Kafka2006/5mm-wiki.io
 edit_uri: edit/main/docs/
+
+
