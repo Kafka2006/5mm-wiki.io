@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+Welcom to lovely 5mm wiki!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+灌注5mm喵灌注5mm谢谢喵！
+[bilibili](https://space.bilibili.com/339167057"bilibil")
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

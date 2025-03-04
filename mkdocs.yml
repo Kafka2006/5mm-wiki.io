@@ -1,14 +1,3 @@
-site_name: lovely 5mm wiki
-theme:
-  name: material
-  palette:
-    primary: indigo    # 主色调
-    accent: pink      # 强调色
-
-# 可用的主题色：
-# red, pink, purple, deep purple, indigo, blue, light blue, 
-# cyan, teal, green, light green, lime, yellow, amber, 
-# orange, deep orange, brown, grey, blue grey
 
 # 站点信息
 site_name: 5mm wiki
@@ -21,14 +10,17 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+  palette:
+    primary: indigo    # 主色调
+    accent: pink  # 强调色
+# 可用的主题色：
+# red, pink, purple, deep purple, indigo, blue, light blue, 
+# cyan, teal, green, light green, lime, yellow, amber, 
+# orange, deep orange, brown, grey, blue grey
 
 # 导航设置
 nav:
   - 首页: index.md
-  - 指南: 
-    - guide/index.md
-    - 安装: guide/install.md
-    - 使用: guide/usage.md
 
 # Markdown 扩展
 markdown_extensions:
